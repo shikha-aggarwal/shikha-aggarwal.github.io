@@ -1,18 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Shikha Aggarwal. I have following qualities:
-
-- I can talk.
-- I can walk.
-- I can cook.
-
-What else do you need?
-
-I usually start a lot of projects and haven't finished any till date. Currently, I am learning to play soccer, build iPhone apps, bought a bike that wants a ride.
+Hi! This be Shikha. Currently, I am learning to play soccer, build iPhone apps, bought a bike that wants a ride.
 
 ### my history
 
