@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Are you politically-inclined or a poet?
-subtitle: ... choose!
 tags: [essay, humor]
 ---
 
