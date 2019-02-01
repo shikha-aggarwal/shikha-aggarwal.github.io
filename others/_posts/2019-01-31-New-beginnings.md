@@ -26,9 +26,9 @@ Thinking back, I think Mr. Ramsay wanted to teach me really well and he had glue
 
 <img align="right" src="/img/blog_images/2019-01-31/IMG-6668.JPG" alt="drawing" width="350" style="padding: 0px 0px 0px 10px;"/>
 
-After vehement protests, he ensured me again that there was not a simpler recipe unless I wanted to serve an uncut and un-peeled apple. I did finally manage to peel it all, and what was left of the potatoes Mr. Ramsay said could be painted green and used in the peas pilaf tomorrow. he said that it was not only my challenge, but also his hardest challenge to teach me, and therefore we both were together in face of this calamity. 
+After vehement protests, he ensured me again that there was not a simpler recipe unless I wanted to serve an uncut and un-peeled apple. I did finally manage to peel it all, and what was left of the potatoes Mr. Ramsay said could be painted green and used in the peas pilaf tomorrow. He said that it was not only my challenge, but also his hardest challenge to teach me, and therefore we both were together in face of this calamity. 
 
-By the end of it all, my one-man army was able to reduce the potatoes to a ruble. Mr. Ramsay said that he was looking forward to the challenges ahead, and we should get a good night's rest before marching forward.
+By the end of it all, my one-man army was able to reduce the potatoes to a rubble. Mr. Ramsay said that he was looking forward to the challenges ahead, and we should get a good night's rest before marching forward.
 
 Day 2: Peas Pilaf
 
