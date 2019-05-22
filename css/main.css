@@ -22,8 +22,11 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family: 'Helvetica Neue', Helvetica, Arial, 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+h1 {
+  text-shadow: 4px 4px #f4ee42;
 }
 a {
   color: {{ site.link-col }};
@@ -342,7 +345,7 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 20px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -388,7 +391,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-size: 26px;
   }
 }
 
