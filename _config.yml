@@ -28,6 +28,7 @@ navbar-links:
 #     - Learn markdown: "http://www.markdowntutorial.com/"
 #     - GitHub Pages: "https://pages.github.com/"
   Home: "http://shikha-aggarwal.github.io"
+  Tech: "tech"
   Book reviews: "bookreviews"
   About Me: "aboutme"
 
