@@ -6,13 +6,13 @@ tags: [book review]
 
 <br/>
 
-The Chronicles of Clovis by Saki 
-: *Super short stories that hit you in the face in the very end. Exquisite character development in a very short time and great delivery. Very precise use of words.*
+Cat's Cradle by Kurt Vonnegut
+: Please read this book.
 
 <br/>
 
-The Calcutta Chromosome by Amitav Ghosh
-: Strange book. Intriguing in the beginning, wanders in between, never comes around. Had to finish it to for the suspense. Weird sci-fi in Indian setting.
+Slaughterhouse Five by Kurt Vonnegut
+: Please read this book.
 
 <br/>
 
@@ -31,7 +31,13 @@ The Adventures of Tom Sawyer by Mark Twain
 
 <br/>
 
-Slaughterhouse Five
-: Please read this book.
+The Calcutta Chromosome by Amitav Ghosh
+: Strange book. Intriguing in the beginning, wanders in between, never comes around. Had to finish it to for the suspense. Weird sci-fi in Indian setting.
 
 <br/>
+
+The Chronicles of Clovis by Saki 
+: *Super short stories that hit you in the face in the very end. Exquisite character development in a very short time and great delivery. Very precise use of words.*
+
+<br/>
+
