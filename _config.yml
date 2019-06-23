@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: One in a melon blog
+title: I talk.
 
 # Short description of your site
 description: Musings, short stories, etc.
@@ -27,29 +27,29 @@ navbar-links:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
 #     - GitHub Pages: "https://pages.github.com/"
-  Home: "http://shikha-aggarwal.github.io"
-  Tech: "tech"
-  Book reviews: "bookreviews"
+  Stories: "http://shikha-aggarwal.github.io"
+  AI: "ai"
+  Books: "bookreviews"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/lemon_jest.jpg"
+# avatar: "/img/lemon_jest.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img: "/img/profile.jpg"
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-text-col: "#e73c3c"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#0e8cd8"
+hover-col: "#5d8d18"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"

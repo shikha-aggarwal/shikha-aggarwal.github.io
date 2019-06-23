@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Links to some totally spam-free tech posts
-#subtitle: Why you'd want to go on a date with me
+title:  Pick your side, AI is here.
 ---
 
 2 June 2019: [Learning RL: Blogs != Books](https://medium.com/@shikha.aggarval/blogs-lectures-c999088a56db)
