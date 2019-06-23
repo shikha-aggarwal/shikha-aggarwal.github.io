@@ -31,9 +31,8 @@ Train to Pakistan by Khushwant Singh
 
 <br/>
 
-The Adventures of Tom Sawyer by Mark Twain
-: Indulging whims of a school-going boy; funny, nostalgic. Rare American humor :)
-
+The Little Prince by Antoine de Saint-Exupéry
+: Even though this book is highly popular, it was a bit too much of an emotional indulgence for me.
 <br/>
 
 The Calcutta Chromosome by Amitav Ghosh
