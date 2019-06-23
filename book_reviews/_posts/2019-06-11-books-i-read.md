@@ -12,12 +12,12 @@ Adventures of Tom Sawyer by Mark Twain
 <br/>
 
 Cat's Cradle by Kurt Vonnegut
-: Please read this book.
+: Greedily read this book because I was blown away by Slaughterhouse Five. Another complicated tale telling of lives of characters smeared with politics, lust, greed, science. Remember that science is not all pious, and neither are all scientists. Freewheeling science is sure to step on foot of equality, as has been proven time and again by atomic bombs, nuclear energy.
 
 <br/>
 
 Slaughterhouse Five by Kurt Vonnegut
-: Please read this book.
+: Please read this book. Reviewed <a href="https://shikha-aggarwal.github.io/2019-06-08-slaughterhouse-five/" class="post-read-more">here</a>.
 
 <br/>
 
