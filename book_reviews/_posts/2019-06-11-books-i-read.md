@@ -6,6 +6,11 @@ tags: [book review]
 
 <br/>
 
+Adventures of Tom Sawyer by Mark Twain
+: Superbly executed nostalgic trip of childhood for adults, a browse through a long-lost photo album. Any adult who snorts at the idea of reading such a book runs the risk of living a life too serious. Do not miss the opportunity to live through all the longings, loneliness, sense of adventure you felt as a kid.
+
+<br/>
+
 Cat's Cradle by Kurt Vonnegut
 : Please read this book.
 
