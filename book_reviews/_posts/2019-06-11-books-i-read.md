@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ~~ [List] Other Books ~~
+title: Books I read in 2019
 tags: [book review]
 ---
 
@@ -46,3 +46,7 @@ The Chronicles of Clovis by Saki
 
 <br/>
 
+An Ideal Husband by Oscar Wilde
+: Each dialogue of the play seems to be a quote in itself. Wilde is extremely funny, and captures the late 1800s society in his commentary on marriages in society's view against personal beliefs. Seems like a lot of authors from that era wrote on this topic (Jane Austen, Colette, Virginia Woolf).
+
+<br/>
