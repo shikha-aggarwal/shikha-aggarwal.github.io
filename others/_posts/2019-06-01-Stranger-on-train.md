@@ -42,4 +42,4 @@ They got off the train at their stop, and they guy did too. He looked back at he
 
 Shaheen tapped her card on the machine, Anu followed. She teased again, "that stranger on the train again checked you out by the way."
 
-"That stranger is my ex. We were together for 8 years, and there I saw him for the first time since he married again. A perfect stranger."
+"That stranger was my ex. We were together for 8 years, and there I saw him for the first time since he married again. A perfect stranger."
