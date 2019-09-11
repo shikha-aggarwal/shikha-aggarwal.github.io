@@ -6,6 +6,10 @@ tags: [book review]
 
 <br/>
 
+The Overstory
+: Do you love trees? Have you heard about the people who put their lives down to save one? I have read about those only in a passing - and this books is an opportunity know the people who are not afraid to follow their passion for those greeny living things that command all life on earth as we know it. Stoic and poignant they stand, having witnessed the history, communicating to each other - and probably us. Are you listening?
+<br/>
+
 Adventures of Tom Sawyer by Mark Twain
 : Superbly executed nostalgic trip of childhood for adults, a browse through a long-lost photo album. Any adult who snorts at the idea of reading such a book runs the risk of living a life too serious. Do not miss the opportunity to live through all the longings, loneliness, sense of adventure you felt as a kid.
 
