@@ -6,7 +6,12 @@ tags: [book review]
 
 <br/>
 
-The Overstory
+The Wisdom of Insecurity by Alan Watts
+: I prophesize that 10 years from now I will look back and see reading this book as an inflection point in my life. This book is not for everyone - read this book if you think and worry about your life a lot, worry about worrying and thinking. Alan Watts is a very brilliant philosopher, very evident from his writing too. He has a knack to be able to state things in the simplest way using the most fitting words.
+
+<br/>
+
+The Overstory by Richard Powers
 : Do you love trees? Have you heard about the people who put their lives down to save one? I have read about those only in a passing - and this books is an opportunity know the people who are not afraid to follow their passion for those greeny living things that command all life on earth as we know it. Stoic and poignant they stand, having witnessed the history, communicating to each other - and probably us. Are you listening?
 <br/>
 
