@@ -3,7 +3,6 @@ layout: post
 title: Books I read in 2019
 tags: [book review]
 ---
-
 <br/>
 
 The Wisdom of Insecurity by Alan Watts
@@ -13,6 +12,7 @@ The Wisdom of Insecurity by Alan Watts
 
 The Overstory by Richard Powers
 : Do you love trees? Have you heard about the people who put their lives down to save one? I have read about those only in a passing - and this books is an opportunity know the people who are not afraid to follow their passion for those greeny living things that command all life on earth as we know it. Stoic and poignant they stand, having witnessed the history, communicating to each other - and probably us. Are you listening?
+
 <br/>
 
 Adventures of Tom Sawyer by Mark Twain
