@@ -5,6 +5,11 @@ tags: [book review]
 ---
 <br/>
 
+Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance
+: Why not? If you don't buy into his dreams, you haven't read enough about him. If you are enamored by him already, you will wish that mankind discovers an antidote to death so that he is around forever.
+
+<br/>
+
 The Wisdom of Insecurity by Alan Watts
 : I prophesize that 10 years from now I will look back and see reading this book as an inflection point in my life. This book is not for everyone - read this book if you think and worry about your life a lot, worry about worrying and thinking. Alan Watts is a very brilliant philosopher, very evident from his writing too. He has a knack to be able to state things in the simplest way using the most fitting words.
 
