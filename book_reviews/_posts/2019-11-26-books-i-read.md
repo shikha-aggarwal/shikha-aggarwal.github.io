@@ -5,6 +5,10 @@ tags: [book review]
 ---
 <br/>
 
+The Incredible Adventures of Robin Einstein Varghese
+: This book made me look so average, middle-class today. I was giggling in the train reading it. No exaggeration. Sidin has an amazing sense of humor, standup style. Before picking it up, I was afraid that it will get boring, but no where did the book lose its steam.
+<br/>
+
 Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance
 : Why not? If you don't buy into his dreams, you haven't read enough about him. If you are enamored by him already, you will wish that mankind discovers an antidote to death so that he is around forever.
 
