@@ -1,0 +1,30 @@
+---
+layout: post
+title: The Letter
+tags: [story, trees]
+---
+
+Avni got up early that Saturday morning in November when San Francisco was still making up its mind to stay blanketed in fog or be sunny. Nothing told her that her life would be thrusted on television by today evening. For now, she craned her neck out of the covers to check the seed tray by her window. No sprouts yet! Her head slumped back into the pillow. This was dismal. She had taken a liking to gardening in her room last year after her friend had gifted the guests at her baby shower 5 indoor plants each. Within the first two weeks, the rose plant had turned golden brown and Avni panicked and diligently watered it in mornings and evenings. But it died. Her friend joked that she should have drowned the plant instead and give it the gift of instant death. Avni had taken care of the other four and had been slowly gathering confidence by keeping two of those plants alive. She had then sown the seeds in a starter tray – it was a joy to see those green buds pop up in the brown! She later transferred the healthy plants to pots. While many had given up on her, some had survived. This was her third starter tray. That the whole tray of different kind of seeds had not sprouted at all, made her nervous. 
+
+Besides, there still was some uncomfortable feeling about the other thriving plants – it seemed they did not flutter anymore. She curled her legs, stretched them upwards, hurled the comforter toward the foot of the bed and jumped out of the bed.
+
+Less than an hour later, she drove up her Honda to the mouth of the French stream trail in Oakland. Stepping out, she sensed a drab, cool air – it did not carry much of the forest perfume. She deep-inhaled the dry air: a mix of camp fire and dust. She started stretching near the wooden fence. A couple went by and they exchanged greetings. She started jogging down the familiar route ambling through the shrubs at first that soon turned thicker and bigger. The Redwoods were few and far between. It was the only kind of the tree she could identify and it didn’t matter. She liked to be in the midst of trees and it was not necessary to know their names to be so happy among them! But today, everything seemed kind of still, as if something invisible enveloped the air … even though it looked the same. The thought of the unsprouted seeds in her bedroom window haunted her briefly.
+
+Then she came to the bifurcation where the left sign indicated the French stream. Nothing marked the path that angled towards right. Last time she had taken this path and had found a perfectly well-formed path there, just extremely empty. In fact, she had seen only one lady in the whole stretch till the path merged with another trail. This reminded her of the very distinct squeak … like opening of a door in a fantasy movie that she heard last time but forgot to look up. She had heard it almost every time she was in the redwoods. It was not common to this hike but it was bizarre to hear it from so up the trees. It seemed like an oddity, a trick by her brain. It had to be a bird – she didn’t know just which one.
+
+Running on that path again, she was glad to see an empty stretch in front of her. Amid the tallest trees, she could hear her own steps crushing the leaves and mud. She heard herself breathing. Time slowed down. And then again, the unmistaken creaking sound of a heavy wooden door with rusting hinges. Was it a bird or a tree that did that? She started walking and then halted.
+
+She heard a new sound ... a click. It could have been a branch hitting a trunk. She shuddered and shook away the feeling – it felt orchestrated with purpose. It was so vivid! She waited for more sound. There was none. No person nearby. She walked off the path staring at the tips of trees. No movement. Nothing. Absolute stillness. Then she searched the grounds, squinting hard. She turned and corner of her eye caught something. Her heart thumped faster.
+
+On her right, amid the untrimmed, wild grass laid an off-white rectangular postcard. It did not belong to its environment. Maybe it blew-in from some garbage? She started walking over the grass, far from her set path and towards the card. The clearer she saw it, the more she was convinced that it was not garbage. It was written in a beautiful curving calligraphy in green ink. She looked around and still there was no one.
+
+Avni picked it up and ran back to the path. She did not look at it. After getting to the trail, she kept running in the direction of the original trail and glanced at the postcard while running – she read “for millions” in the middle of the text. She looked up at the path to find an empty spot but someone nearby. Finally, she saw a man running with his dog and then she hid the card on her right side. She furtively looked at it and then stopped. Taking a long breath, she calmed herself down. It seemed like a regular card, one of very good quality. It had self-embossed roots designed on the text side. She flipped it over and it was addressed to “Humans.” Weird. A guy walked by. She did not deem it too unreasonable to carry a postcard with her on the trail and so starting reading the text.
+
+“Hi again Homo sapiens,
+Our network throughout the world has not observed any preparations on your end. All other kinds of fauna were also informed a week ago and are trying to save whatever they can claim any of us. There is some panic but it is being dealt with: they don’t have a choice. Having looked over you for millions of years, we should not have to tell you that we do care about you and are concerned about the lack of plans on your end. It is being reported that you are trying to sow more seeds and different kind of seeds from your seed banks. It is useless, we are not going to change our minds.
+Good luck,
+Flora.”
+
+She felt half anxious and half amused and ran back to her car. There she rang up Sumi and told her about the card. She laughed out loud and Avni understood why but she was not convinced that this was a joke. It had to do with the dead seeds in her window and the stillness of the plants in her room.
+
+[to be continued ..]
