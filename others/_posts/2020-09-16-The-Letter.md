@@ -21,8 +21,11 @@ On her right, amid the untrimmed, wild grass laid an off-white rectangular postc
 Avni picked it up and ran back blindly to the path. After getting to the trail, she kept running in the direction of the original trail. The trees were not falling and no one trying to harm her. She glanced at the postcard and read “for millions” in the middle of the text. She looked up at the path where it met the original. A man was running along with his dog and then she hid the card on her right. She furtively looked at it and then stopped. Taking a long breath, she calmed herself down. It seemed like a regular card, one of very good quality. It had a self-embossed root pattern at the bottom. She flipped it over and it was addressed to “Humans.” Weird. Another guy walked by. She did not deem it too unreasonable to carry a postcard with her on the trail and so started reading the text.
 
 “Hi again Homo sapiens,
+
 Our network throughout the world has not observed any preparations on your end. All other kinds of fauna were also informed a week ago and are trying to save whatever they can claim any of us. There is some panic but it is being dealt with: they don’t have a choice. Having looked over you for millions of years, we should not have to tell you that we do care about you and are concerned about the lack of plans on your end. It is being reported that you are trying to sow more seeds and different kind of seeds from your seed banks. It is useless, we are not going to change our minds.
+
 Good luck,
+
 Flora.”
 
 She felt half anxious and half amused and ran back to her car. There she rang up Sumi and told her about the card. She laughed out loud and Avni understood why but she was not convinced that this was a joke. It had to do with the dead seeds in her window and the stillness of the plants in her room.
@@ -36,6 +39,7 @@ Three days earlier an online meeting had taken place that had been called urgent
 Another person joined the call and it was the septuagenarian Patricia Westerford! She had pioneered the highly controversial idea at the time that trees can ‘talk’ to each other. Despite being severely ridiculed through much of her career by these very people, she persevered and worked in isolation. Her work had paved path for Venkata’s research. He too had spent 38 years researching mycorrhizal networks – the underground fungal networks which connects trees and facilitates communication between them. His team, mostly comprising of graduate students, was working on deciphering the chemical, hormonal and slow-pulsing electrical signals that trees send to communicate through the network. There still was a huge reluctance to the idea in the scientific community but the adopters of the theory slowly trickled in over the past decade. 
 
 Wolfhard Lafrenz, Professor of Botony in the University of Frankfurt, started the meeting in a heavily accentuated English, “Ladies and gentlemen, we meet here today to discuss some results which are, eh, quite harrowing. As our precedent research and results will testify, it is not usual for us to present half-researched information. But considering the ramifications of what follows, it was imperative that we talk to you. Before I call on the first speaker, I would like to thank all of the distinguished researchers that were able to connect. It is imperative that what we discuss here today be shared with anyone – I emphasize this – anyone outside us with utmost discretion considering its results.
+
 Professor Gunther Lerche will now address us.”
 
 “Hello,” began the voice on left. The conference room camera swiveled towards him and brought Gunther Lerche to the center of the frame. “Admittedly, the data is about 14 hours old. What we have observed is that there is no organogenesis taking place in the wheat samples across our laboratory. Additionally, there has been no primary growth from meristems and we are uncertain about the secondary growth – although the outlook does not look very promising on that end either.
@@ -47,11 +51,17 @@ Our teams are trying to collate the results from other laboratories and farms; b
 A postcard that looked like the one that Avni found 3 days later was projected on their screens. Venkata leaned in to read it.
 
 “Hi Homo sapiens,
+
 This is awkward. Like a magician, we too didn’t want to reveal our tricks but we could not figure out what’s the dictum if we are retiring from the trade? Not trying to be snarky but we thought a little humor is always useful. There is no easy way to do this. We, the Flora, have decided to not produce another leaf, another root or a stem on this soil in our attempt to control the mayhem you have brought to this place.
+
 As caretakers of this earth, we have decided to act on behalf of all other species. Your species has grown too much and left extremely few resources for others. So now, we need you to dwindle down. With lesser oxygen in the atmosphere in very near future, you have to make smart choices about your population and resource usage. We are pretty sure you can run all your science models to work out the time you have.
+
 While we are taking this extreme step, it should be noted that are not going to dwindle our present production of oxygen. Our plants will continue to work otherwise: providing food and oxygen at the current levels. However, it should be noted that over time, like all other living things, these plants too will age and die – so you need to account for reduced production over time.
+
 It is not like we don’t like you. It is similar in the way that you don’t hate us. We too have to look out for the well-being of our own species. It is deeply painful for us having heard stories from our ancestors about your coming of age stories. They were really fond of you, and we are too. But you are well aware of the survival of the fittest paradigm and we are sorry for this abrupt notice.
+
 Regards,
+
 Flora.”
 
 Venkata shifted in his chair and listened to the data which did not seem anything more than a laboratory setup malfunction and a theatrical performance. His eye caught Patricia Westerford who was listening intently. She could not be taking this seriously! Another glance at his screen told him that all others seemed to be as concerned.
@@ -61,8 +71,10 @@ The rest of the meeting was spent zoning in and out of the incredulity of the en
 Someone asked, “So how much time do we have?”
 
 Patricia Westerford unmuted on her end and said, “depends on how the humankind can come together and what steps we are able to take. At current levels, the older people and high-risk people will start feeling congestion within the next 4 days owing simply to the dwindling oxygen levels and sustained carbon emissions. Some broad measures like stopping all logging and cutting down electricity production by one-eighth will buy us 2 weeks.
+
 All nations have put this into motion.”
 
 
 [to be continued ..]
+
 To the esteemed readers, I understand the delay is annoying. Thank you for your patience nonetheless.
