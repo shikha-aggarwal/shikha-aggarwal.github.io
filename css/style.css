@@ -111,7 +111,7 @@ nav {
   flex-direction: row;
   align-items: center;
   z-index: 50;
-  background: transparent;
+  background: var(--off-white);
   mix-blend-mode: normal;
 }
 
