@@ -1,5 +1,5 @@
 Wary that I was sitting at the corner of a triangle dominated by Xin Li’s in two parts to three - one that I had not known that I didn’t know but had posted a party parrot welcoming him back and the other - well, who was not actually Xin Li - but let us for all practical purposes call him my ‘Xin Li’ because I still don’t know his name and I have my ears all perky for any mention of his name. It is so strange that no one yells at him from a distance. I see that he smiles at his screen quite often which makes me think that either there is something going on between the two, or that he chats on the messenger quite a bit.
-<img align="left" src="/img/blog_images/2019-02-15/xin_li_triangle.jpg" alt="drawing" width="400" style="padding: 0px 10px 0px 0px;"/>
+<img align="left" src="/img/2019-02-15/xin_li_triangle.jpg" alt="drawing" width="400" style="padding: 0px 10px 0px 0px;"/>
 
 I sat at my desk avoiding eye contact with both corners and so, had little option but to see videos, check twitter, or work. It was 9:40 am and my manager’s train would have pulled into the station around 3 minutes ago - ergo, he would be walking into the office right about now. I did the needful.
 

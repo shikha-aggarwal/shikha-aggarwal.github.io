@@ -1,6 +1,6 @@
 One fine Thursday morning, I was talking to my younger brother over phone and that fellow started talking about how he wants to switch his career because he has too much time on his hands in his current job. I felt so old – I just cannot relate to millennials. After getting off the phone, I started thinking about my career (because it was only 11 am and who would expect me to be in office anyway), and then about my life. How I had never pursued my dreams. Not even dreams, my resolutions. When my ex-husband married a yoga person, I vowed that I will learn yoga. That evening I walked past a yoga studio and have avoided going down the path ever since.
 
-<img align="left" src="/img/blog_images/2019-01-31/IMG-6673.JPG" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
+<img align="left" src="/img/2019-01-31/IMG-6673.JPG" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
 
 That day, I went to office with things weighing on my mind. At office, there was a posting for a potluck event. Enough is enough, I thought: I need to socialize. I too, will learn to cook and bag a man. Between yoga body and food, in the long run, food will always be had three times a day.
 On the pretext that I had had a heavy breakfast, I went for a walk. I pinged Sugandha to see if she would join me. I laid my soul before her and asked her if she knew someone who could teach me to cook.
@@ -17,7 +17,7 @@ Day 1: Mashed potatoes
 We met in evening the first day to get started on the mashed potatoes. I am not sure about other potatoes, but these ones were particularly hard to deal with. First, to boil them, after repeatedly tossing them in microwave, they still felt like stones. When finally, a knife went through, they did not want to come out of their peel. To be fair, the peel did not make it any easier too. 
 Thinking back, I think Mr. Ramsay wanted to teach me really well and he had glued the peel to the potatoes - because when I did take some of it off, it stuck to my fingers. I rubbed the finger on my apron and then it was on apron. The peel was everywhere but the bowl of waste where Mr. Ramsay had stacked up the one long curl he had removed from his potato - all of it in one go. I had been duped. 
 
-<img align="right" src="/img/blog_images/2019-01-31/IMG-6668.JPG" alt="drawing" width="350" style="padding: 0px 0px 0px 10px;"/>
+<img align="right" src="/img/2019-01-31/IMG-6668.JPG" alt="drawing" width="350" style="padding: 0px 0px 0px 10px;"/>
 
 After vehement protests, he ensured me again that there was not a simpler recipe unless I wanted to serve an uncut and un-peeled apple. I did finally manage to peel it all, and what was left of the potatoes Mr. Ramsay said could be painted green and used in the peas pilaf tomorrow. He said that it was not only my challenge, but also his hardest challenge to teach me, and therefore we both were together in face of this calamity. 
 
@@ -33,7 +33,7 @@ Even so, I was a bit nervous when he handed me the knife. I recalled how my teac
 
 As I started working with onions, I could not remember why I had complained about potatoes the previous day. First of all, onion is a very unkempt vegetable. With all the disheveled hair and torn clothes, they do not make a good first impression. Then they are quite stubborn and will make such a ruckus when you want to peel them. They reduce you to tears each time, and you would think why you want to eat them all. 
 
-<img align="right" src="/img/blog_images/2019-01-31/IMG-6669.JPG" alt="drawing" width="400" style="padding: 0px 0px 0px 10px;"/>
+<img align="right" src="/img/2019-01-31/IMG-6669.JPG" alt="drawing" width="400" style="padding: 0px 0px 0px 10px;"/>
 
 After peeling, they suddenly turn most funny and you cannot work because you are laughing with pain in stomach and stretched cheeks. These onions did not want to stay on the cutting board at all. They kept rolling off the board. I wonder why the cutting board does not come with seat belts to keep them secure. 
 
@@ -69,7 +69,7 @@ I could sense a tone of sarcasm, but that is often the case with wise people - y
 
 The near-death experiences, muddying and cleaning, were all part of my and Mr. Ramsay's life by the fourth day. I failed to surprise him anymore. In fact, he looked a bit bored the final day when I burnt the halwa and in a desperate attempt to save the ruins, I lifted the aluminum pot with my bare hands. He looked on with the look of the father who knows he cannot save his son from every single fall when he teaches him to ride the bike. 
 
-<img align="left" src="/img/blog_images/2019-01-31/IMG-6670.JPG" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
+<img align="left" src="/img/2019-01-31/IMG-6670.JPG" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
 
 The neurons in my body must have reacted at quite an amazing speed for I dropped the pot faster than I picked it, splattering the contents.  Then he looked on as a mother who wants her child to eat on her own, but is definitely tired of cleaning the bowls full of food he keeps dropping. I thought he looked a bit disappointed that I did not come up with a new method of destruction. When I offered to clean the mess, Mr. Ramsay said, he will take me up for my offer at the end of the day. I do believe that teachers should show confidence in their students, and I was a bit disappointed in Mr. Ramsay in this aspect.
 
@@ -81,7 +81,7 @@ I embarked on setting my kitchen in the garden and prepared the meal - it was al
 
 After taking a shower, I went to the potluck venue and placed the bowl on common table. I took a chair in direct view from the halwa and kept staring at it. The idea was that as soon as a guy helps himself with a serving, I will jump up and start a conversation. The wait was long, but the rest is history.
 
-<img align="left" src="/img/blog_images/2019-01-31/IMG-6671.JPG" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
+<img align="left" src="/img/2019-01-31/IMG-6671.JPG" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
 
 He came, he saw, he moved on. He came back again and eyed it suspiciously. He went around the table and tilted his neck to see it. I went over and said it was delicious. He reached out for a toothpick and poked it. He said, whoever cooked this has a good sense of humor to place it here. I thought it was a good compliment and we talked.
 

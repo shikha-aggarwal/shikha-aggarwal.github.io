@@ -1,6 +1,6 @@
 Today is the day of comebacks apparently. Shoaib Akhtar (a fast bowler) announced that he was coming back to play cricket, erm - league cricket, and bragged that he will "show today's kids what speed is". I don't know Shoaib, the "kids" these days hump each other as soon as they see each other. [Birds spend more time courting](https://www.mnn.com/earth-matters/animals/stories/10-bizarre-beautiful-bird-courtship-dances "Bird courtship dances"). I don't know how much more do we need to tell them about speed. Let's try to spin that around (pun!).
 
-<img align="left" src="/img/blog_images/2019-02-14/xin_li.jpg" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
+<img align="left" src="/img/2019-02-14/xin_li.jpg" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
 
 As I read this news, my manager sent our team a message on messenger that Xin Li is coming back to join our team (not a cricket team).
 

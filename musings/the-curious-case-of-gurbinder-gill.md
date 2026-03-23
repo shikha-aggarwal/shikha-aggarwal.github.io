@@ -12,7 +12,7 @@ This of course reminded me of our Punjabi brother, Gurbinder Gill, affectionatel
 
 Now, I would argue that he didn’t sleep as much as he was perceived to. His marketing was all wrong. He got much footage just because of the sheer peculiarity of his style. The nub of the whole deal was that when he had to sleep, he would sleep. That’s it.
 
-<img align="left" src="/img/blog_images/2019-03-14/sleep_bed.jpg" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
+<img align="left" src="/img/2019-03-14/sleep_bed.jpg" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
 
 It all started when he was three summers old. Gogi, totally oblivious to the small-town stardom lurking around him, happened to be standing in a fielder position near boundary line while playing cricket. Because of intrusion by such things as probability, things tend to get a bit slow and the ball doesn’t call for one’s services too often. Even when it does, one might just as well give up, because it is going for its rendezvous with the boundary anyway. So, one might feel weary — it is a very reasonable thing to happen — a wave of sleepiness can catch you without notice. This is where Gogi and rest of the universe departed in their mannerisms. He would not wait to get back home and climb between the sheets for his dream time but instead he just hunched on his knees, lowered his behind till it touched the soil, and the head followed. He then let go. Not going into details about the initial panic and hooplah, but it very soon dawned on the crowd that he was just asleep.
 
@@ -43,6 +43,6 @@ One day, he had enough of this. He wanted to quit. So, he beelined to his dad an
 
 He realized the nub of thing was that people didn’t take him seriously because of his sleeping “problem,” and more importantly, he had not done anything about it till date was because he himself really didn’t see it as a problem. Years had passed; valuable years.
 
-<img align="left" src="/img/blog_images/2019-03-14/sleep_dog.jpg" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
+<img align="left" src="/img/2019-03-14/sleep_dog.jpg" alt="drawing" width="350" style="padding: 0px 10px 0px 0px;"/>
 
 That was the day he stopped sleeping on newspaper, drinking turmeric milk, rubbing balms, and in general, jettisoned every treatment meted out to him out the window. He slept peacefully, whenever, wherever.
