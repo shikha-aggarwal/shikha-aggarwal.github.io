@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Musings · Shikha</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,900&family=Geist:wght@100;300;400;700;900&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="draw-line" aria-hidden="true"></div>
+
+  <nav>
+    <a href="/" class="nav-mark">Shikha<span class="dot">·</span></a>
+    <ul class="nav-links">
+      <li><a href="sandcastles.html">Sandcastles</a></li>
+      <li><a href="musings.html">Musings</a></li>
+      <li><a href="crumbs.html">Crumbs</a></li>
+      <li><a href="etc.html">Etc.</a></li>
+    </ul>
+  </nav>
+
+  <main class="page story-content">
+    <a href="musings.html" class="back-link">← writings</a>
+
+    <div class="story-header">
+      <h1 id="story-title"></h1>
+      <p class="meta" id="story-meta"></p>
+    </div>
+
+    <div class="story-body" id="story-body"></div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    const stories = {
+      'the-letter':                          { title: 'The Letter',                              date: '2020' },
+      'twin-decades':                        { title: 'Twin Decades',                            date: '2020' },
+      'stranger-on-train':                   { title: 'Stranger on Train',                       date: '2019' },
+      'banaras':                             { title: 'Banaras',                                 date: '2019' },
+      'crush':                               { title: 'Crush',                                   date: '2019' },
+      'the-curious-case-of-gurbinder-gill':  { title: 'The Curious Case of Gurbinder Gill',     date: '2019' },
+      'thawing-triangle':                    { title: 'Thawing Triangle',                        date: '2019' },
+      'a-wednesday':                         { title: 'A Wednesday',                             date: '2019' },
+      'xin-li-triangle':                     { title: 'Xin-Li Triangle',                        date: '2019' },
+      'xin-li':                              { title: 'Xin-Li',                                  date: '2019' },
+      'new-beginnings':                      { title: 'New Beginnings',                          date: '2019' },
+      'are-you-politically-inclined':        { title: 'Are You Politically Inclined or a Poet', date: '2018' },
+      'the-beat-of-silicon-valley':          { title: 'The Beat of Silicon Valley',             date: '2018' },
+    };
+
+    (function init() {
+      const slug = getQueryParam('s');
+      const storyBody = document.getElementById('story-body');
+      const storyTitle = document.getElementById('story-title');
+      const storyMeta = document.getElementById('story-meta');
+
+      if (!slug || !stories[slug]) {
+        storyTitle.textContent = 'Story not found.';
+        storyMeta.textContent = '';
+        storyBody.innerHTML = '<p style="color:var(--muted);font-family:var(--mono);font-size:0.85rem;">The story you\'re looking for doesn\'t exist.</p>';
+        document.title = 'Musings · Shikha';
+        return;
+      }
+
+      const story = stories[slug];
+      storyTitle.textContent = story.title;
+      storyMeta.textContent = story.date;
+      document.title = story.title + ' · Shikha';
+
+      renderMarkdown('stories/' + slug + '.md', storyBody);
+    })();
+  </script>
+
+</body>
+</html>

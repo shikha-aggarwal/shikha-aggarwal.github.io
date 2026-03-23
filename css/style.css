@@ -1,0 +1,617 @@
+/* ============================================================
+   Shikha· — Design System
+   ============================================================ */
+
+/* --- Custom Properties ------------------------------------ */
+:root {
+  --black:       #0a0a0a;
+  --off-white:   #f6f5f1;
+  --chartreuse:  #c8f000;
+  --muted:       #999;
+  --border:      #e2e2e2;
+
+  --display: 'Fraunces', Georgia, serif;
+  --sans: 'Geist', system-ui, -apple-system, sans-serif;
+  --mono: 'Geist Mono', 'Courier New', monospace;
+
+  --page-left:  8vw;
+  --page-right: 6vw;
+}
+
+/* --- Reset ------------------------------------------------ */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  background-color: var(--off-white);
+  color: var(--black);
+  font-family: var(--sans);
+  font-weight: 300;
+  line-height: 1.6;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+/* --- Paper Grain Texture ---------------------------------- */
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9998;
+  opacity: 0.04;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-size: 200px 200px;
+  background-repeat: repeat;
+}
+
+/* --- Draw Line Animation ---------------------------------- */
+@keyframes drawLine {
+  0%   { width: 0; opacity: 1; }
+  70%  { width: 100%; opacity: 1; }
+  100% { width: 100%; opacity: 0; }
+}
+
+.draw-line {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  width: 0;
+  background: var(--chartreuse);
+  z-index: 100;
+  animation: drawLine 1.6s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  pointer-events: none;
+}
+
+/* --- Navigation ------------------------------------------- */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding: 1.5rem var(--page-right) 1.5rem var(--page-left);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  z-index: 50;
+  background: transparent;
+  mix-blend-mode: normal;
+}
+
+.nav-mark {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  color: var(--black);
+  flex-shrink: 0;
+}
+
+.nav-mark .dot {
+  color: var(--chartreuse);
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  margin-left: auto;
+  list-style: none;
+  align-items: center;
+}
+
+.nav-links a {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.nav-links a:hover {
+  color: var(--chartreuse);
+}
+
+/* --- Landing Page ----------------------------------------- */
+.landing {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: var(--page-left);
+  padding-right: 40vw;
+}
+
+.landing-mark {
+  font-family: var(--display);
+  font-size: clamp(4rem, 12vw, 10rem);
+  font-weight: 700;
+  font-variation-settings: "opsz" 144;
+  letter-spacing: -0.01em;
+  line-height: 0.95;
+  margin-bottom: 2rem;
+  color: var(--black);
+}
+
+.landing-mark .dot {
+  color: var(--chartreuse);
+}
+
+.landing-line {
+  font-size: clamp(1rem, 2vw, 1.4rem);
+  font-weight: 300;
+  border-left: 2px solid var(--chartreuse);
+  padding-left: 1.2rem;
+  max-width: 36ch;
+  color: var(--black);
+  line-height: 1.6;
+}
+
+/* --- Interior Pages --------------------------------------- */
+.page {
+  padding-top: 8rem;
+  padding-bottom: 4rem;
+  padding-left: var(--page-left);
+  padding-right: var(--page-right);
+  max-width: 72ch;
+}
+
+.page--wide {
+  max-width: none;
+  padding-right: 12vw;
+}
+
+.page-title {
+  font-family: var(--display);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  margin-bottom: 3rem;
+  color: var(--black);
+}
+
+.page-title .dot {
+  color: var(--chartreuse);
+}
+
+/* --- Work Log --------------------------------------------- */
+.worklog-content {
+  font-family: var(--mono);
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: var(--black);
+}
+
+.worklog-content h1 {
+  font-family: var(--display);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  margin-bottom: 3rem;
+  color: var(--black);
+}
+
+.worklog-content h2 {
+  font-family: var(--sans);
+  font-size: 1.1rem;
+  font-weight: 700;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.4rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1.2rem;
+  color: var(--black);
+}
+
+.worklog-content h3 {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
+}
+
+.worklog-content h4 {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+  margin-top: 1.4rem;
+  margin-bottom: 0.4rem;
+}
+
+.worklog-content p {
+  margin-bottom: 0.8em;
+}
+
+.worklog-content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2.5rem 0;
+}
+
+.worklog-content strong {
+  font-weight: 600;
+  color: var(--black);
+}
+
+/* Task list — hide native checkbox, use CSS pseudo-elements */
+.worklog-content ul {
+  padding-left: 0;
+  list-style: none;
+  margin-bottom: 0;
+}
+
+.worklog-content ul li {
+  padding-left: 1.6em;
+  position: relative;
+  margin-bottom: 0.3em;
+}
+
+/* Non-task list items */
+.worklog-content ul li:not(:has(input[type="checkbox"])) {
+  padding-left: 1.2em;
+}
+
+.worklog-content ul li:not(:has(input[type="checkbox"]))::before {
+  content: '–';
+  position: absolute;
+  left: 0;
+  color: var(--muted);
+}
+
+/* Task list items */
+.worklog-content ul li:has(input[type="checkbox"]) {
+  padding-left: 1.8em;
+  list-style: none;
+}
+
+/* Hide the native checkbox input */
+.worklog-content ul li:has(input[type="checkbox"]) input[type="checkbox"] {
+  display: none;
+}
+
+/* Override dash bullet for task items */
+.worklog-content ul li:has(input[type="checkbox"])::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.42em;
+  width: 12px;
+  height: 12px;
+  border: 1.5px solid var(--muted);
+}
+
+/* Extended tick — SVG path, hidden by default */
+.worklog-content ul li:has(input[type="checkbox"])::after {
+  content: '';
+  position: absolute;
+  display: none;
+  left: -2.5px;
+  top: 0.1em;
+  width: 20px;
+  height: 22px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 22'%3E%3Cpath d='M 4,10 C 4,12.5 5.5,14 7.5,15.5' stroke='%23c8f000' stroke-width='4.5' stroke-linecap='round' fill='none'/%3E%3Cpath d='M 7.5,15.5 C 8.5,14 9.9,12.8 11.7,11.3' stroke='%23c8f000' stroke-width='5.4' stroke-linecap='round' fill='none'/%3E%3Cpath d='M 11.7,11.3 C 13.4,9.1 15.5,7 19,5' stroke='%23c8f000' stroke-width='4' stroke-linecap='round' fill='none'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* Checked state */
+.worklog-content ul li:has(input[type="checkbox"]:checked)::before {
+  display: none;
+}
+
+.worklog-content ul li:has(input[type="checkbox"]:checked)::after {
+  display: block;
+}
+
+
+/* --- Collapsibles ----------------------------------------- */
+.worklog-content details {
+  margin-bottom: 0rem;
+}
+
+.worklog-content summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.3rem 0;
+  user-select: none;
+}
+
+.worklog-content summary::-webkit-details-marker {
+  display: none;
+}
+
+.worklog-content summary::before {
+  content: '▸';
+  color: var(--chartreuse);
+  font-size: 1rem;
+  display: inline-block;
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.worklog-content details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+/* Section-level collapse (Notes) */
+.worklog-content details.section-collapse > summary {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.worklog-content details.section-collapse > summary::before {
+  font-size: 4rem;
+  margin-top: -0.2em;
+}
+
+
+/* --- Writings List ---------------------------------------- */
+.story-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.story-list li {
+  border-bottom: 1px solid var(--border);
+}
+
+.story-list li:first-child {
+  border-top: 1px solid var(--border);
+}
+
+.story-list a {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 1rem 0;
+  text-decoration: none;
+  color: var(--black);
+  transition: color 0.15s ease;
+  gap: 1rem;
+}
+
+.story-list a:hover {
+  color: var(--chartreuse);
+}
+
+.story-list a:hover .story-date {
+  color: var(--chartreuse);
+}
+
+.story-title {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.story-date {
+  font-size: 0.75rem;
+  font-family: var(--mono);
+  color: var(--muted);
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: color 0.15s ease;
+}
+
+/* --- Story Page ------------------------------------------- */
+.story-content {
+  max-width: 68ch;
+}
+
+.story-header {
+  margin-bottom: 3rem;
+}
+
+.story-header h1 {
+  font-family: var(--display);
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+  margin-bottom: 0.75rem;
+  color: var(--black);
+}
+
+.story-header .meta {
+  font-size: 0.75rem;
+  font-family: var(--mono);
+  color: var(--muted);
+}
+
+.story-body {
+  font-size: 1rem;
+  line-height: 1.8;
+  font-weight: 300;
+  color: var(--black);
+}
+
+.story-body p {
+  margin-bottom: 1.4em;
+}
+
+.story-body p:first-child::first-letter {
+  font-size: 3.2em;
+  font-weight: 700;
+  float: left;
+  line-height: 0.8;
+  padding-right: 0.08em;
+  padding-top: 0.05em;
+  color: var(--black);
+}
+
+.back-link {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--muted);
+  text-decoration: none;
+  margin-bottom: 2.5rem;
+  transition: color 0.15s ease;
+}
+
+.back-link:hover {
+  color: var(--chartreuse);
+}
+
+/* --- About Page ------------------------------------------- */
+.about-body {
+  font-size: 1.05rem;
+  font-weight: 300;
+  line-height: 1.8;
+  max-width: 56ch;
+  color: var(--black);
+}
+
+.about-body p {
+  margin-bottom: 1.6em;
+}
+
+/* --- Projects Page ---------------------------------------- */
+.projects-note {
+  font-size: 1rem;
+  font-weight: 300;
+  color: var(--muted);
+  font-family: var(--mono);
+  line-height: 1.6;
+  padding: 2rem 0;
+  border-top: 1px solid var(--border);
+}
+
+/* --- Page Footer ------------------------------------------ */
+.page-footer {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.page-footer a {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--muted);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: color 0.15s ease;
+}
+
+.page-footer a:hover {
+  color: var(--chartreuse);
+}
+
+/* --- Text Selection --------------------------------------- */
+::selection {
+  background: var(--chartreuse);
+  color: var(--black);
+}
+
+::-moz-selection {
+  background: var(--chartreuse);
+  color: var(--black);
+}
+
+/* --- Responsive ------------------------------------------- */
+@media (max-width: 768px) {
+  .landing {
+    padding-right: var(--page-right);
+  }
+
+  .landing-mark {
+    font-size: clamp(3rem, 16vw, 6rem);
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  .page {
+    padding-left: var(--page-left);
+    padding-right: var(--page-right);
+    max-width: 100%;
+  }
+
+  .worklog-content h2 {
+    font-size: 1rem;
+  }
+
+  .story-list a {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .story-date {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 480px) {
+  :root {
+    --page-left: 5vw;
+    --page-right: 5vw;
+  }
+
+  .landing-mark {
+    font-size: clamp(2.8rem, 18vw, 5rem);
+  }
+}
