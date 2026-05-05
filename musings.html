@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Musings · Shikha</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,900&family=Geist:wght@100;300;400;700;900&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="draw-line" aria-hidden="true"></div>
+
+  <nav>
+    <a href="/" class="nav-mark">Shikha<span class="dot">·</span></a>
+    <ul class="nav-links">
+      <li><a href="sandcastles.html">Sandcastles</a></li>
+      <li><a href="yarns/">Yarns</a></li>
+      <li><a href="musings.html">Musings</a></li>
+      <li><a href="crumbs.html">Crumbs</a></li>
+      <li><a href="etc.html">Etc.</a></li>
+    </ul>
+  </nav>
+
+  <main class="page">
+    <h1 class="page-title">Musings<span class="dot">·</span></h1>
+    <div class="journal-list" id="journal-list"></div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    async function renderEntry(entry) {
+      if (entry.file) {
+        const res = await fetch(entry.file);
+        if (!res.ok) return '<p class="journal-text" style="color:var(--muted)">Could not load file.</p>';
+        const md = await res.text();
+        return marked.parse(md, { gfm: true, breaks: false });
+      }
+      return marked.parse(entry.text || '', { gfm: true, breaks: false });
+    }
+
+    (async function () {
+      const listEl = document.getElementById('journal-list');
+      try {
+        const res = await fetch('musings.json');
+        const entries = await res.json();
+        if (!entries.length) {
+          listEl.innerHTML = '<p class="journal-empty">Nothing yet.</p>';
+          return;
+        }
+        for (const entry of entries.slice().reverse()) {
+          const date = new Date(entry.date + 'T12:00:00');
+          const formatted = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+          const body = await renderEntry(entry);
+          const div = document.createElement('div');
+          div.className = 'journal-entry';
+          div.innerHTML = `<time class="journal-date">${formatted}</time><div class="journal-text">${body}</div>`;
+          listEl.appendChild(div);
+        }
+      } catch (e) {
+        listEl.innerHTML = '<p class="journal-empty">Could not load entries.</p>';
+      }
+    })();
+  </script>
+
+</body>
+</html>

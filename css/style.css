@@ -510,6 +510,54 @@ nav {
   color: var(--chartreuse);
 }
 
+/* --- Journal (Musings) ------------------------------------ */
+.journal-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.journal-entry {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.journal-entry:first-child {
+  border-top: 1px solid var(--border);
+}
+
+.journal-date {
+  display: block;
+  font-size: 0.72rem;
+  font-family: var(--mono);
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.55rem;
+}
+
+.journal-text {
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.75;
+  color: var(--black);
+  max-width: 58ch;
+}
+
+.journal-text p {
+  margin-bottom: 1.2em;
+}
+
+.journal-text p:last-child {
+  margin-bottom: 0;
+}
+
+.journal-empty {
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  color: var(--muted);
+  padding-top: 2rem;
+}
+
 /* --- About Page ------------------------------------------- */
 .about-body {
   font-size: 1.05rem;
